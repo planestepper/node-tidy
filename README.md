@@ -1,4 +1,4 @@
-habisp-tidy
+node-tidy
 ===========
 
 ## Node wrapper for HTML Tidy

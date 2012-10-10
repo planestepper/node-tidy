@@ -1,10 +1,10 @@
 {
-  "name": "habisp-tidy",
+  "name": "node-tidy",
   "description": "Simple tidy wrapper for Tidy on Nodejs (code from StackOverflow)",
   "version": "0.0.1",
-  "homepage": "https://github.com/leondealmeida/habisp-tidy/",
+  "homepage": "https://github.com/leondealmeida/node-tidy/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/leondealmeida/habisp-tidy.git"
+    "url": "git://github.com/leondealmeida/node-tidy.git"
   }
 }
